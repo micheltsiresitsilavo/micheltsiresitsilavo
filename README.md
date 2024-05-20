@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Michel Tsiresitsilavo, Dév JS et PHP 👋
 
 <!--
 **micheltsiresitsilavo/micheltsiresitsilavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
